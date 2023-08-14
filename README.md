@@ -28,7 +28,7 @@ const MyComponent = () => {
 };
 
 export default MyComponent;
-
+```
 Components
 RingLoader: A loader with a rotating ring animation.
 WaveLoader: A loader with a wave-like animation.
