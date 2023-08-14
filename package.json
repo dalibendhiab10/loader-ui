@@ -1,0 +1,26 @@
+{
+  "name": "loader-ui",
+  "version": "1.0.0",
+  "description": "A collection of custom loader components for Next.js, React, and Vue.js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"No tests available\"",
+    "build": "echo \"No build step needed\"",
+    "start": "echo \"No start script defined\""
+  },
+  "keywords": ["loader", "ui", "nextjs", "react", "vuejs"],
+  "author": "Mohamed Ali Ben Dhiab",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dalibendhiab10/loader-ui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dalibendhiab10/loader-ui/issues"
+  },
+  "homepage": "https://github.com/dalibendhiab10/loader-ui#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "vue": "^3.2.16"
+  }
+}
